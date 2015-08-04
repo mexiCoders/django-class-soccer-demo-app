@@ -3,6 +3,7 @@ from rest_framework import viewsets
 from .serializers import PlayerSerializer, TeamSerializer
 from .models import Player, Team
 
+
 class PlayerViewSet(viewsets.ModelViewSet):
     """
     API endpoint that allows players to be viewed or edited.
