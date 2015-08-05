@@ -4,4 +4,3 @@ markdown
 django-filter
 ipython
 
-
